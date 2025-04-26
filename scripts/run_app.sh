@@ -1,0 +1,1 @@
+fastapi run practise/asgi.py --reload
